@@ -1,0 +1,82 @@
+#+title: International science
+#+subtitle: Vibenshus Gymnasium
+#+author: Et udpluk fra hverdagen
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+reveal_title_slide_background: ./img/Forside.jpg
+#+reveal_default_slide_background: #0f062b
+#+reveal_extra_options: slideNumber:"c/t",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+# #+reveal_extra_attr: style="color:red"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+  
+* Atomer og lys
+:PROPERTIES:
+:reveal_background: ./img/kvantemekanik.png
+:reveal_background_size: 1000px
+:END:
+
+** Atommodeller
+[[./img/atomteorier.jpg]]
+
+** En elektron skifter bane
+
+#+attr_html: :width 50%
+[[./img/atommodel.gif]]
+
+** Man kan regne på det
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+Rybergformlen:
+
+$$\frac{1}{\lambda} = Z^2 R_{\infty} \left( \frac{1}{n_1^2}- \frac{1}{n_2^2} \right)$$
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+[[./img/hydrongenenergier_flat.png]]
+
+#+attr_html: :width 80%
+[[./img/EM_spectrum.jpeg]]
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+
+** Atomer og molekyler har fingeraftryk
+:PROPERTIES:
+:reveal_background: ./img/fingeraftryk.jpg
+:END:
+
+** Det periodiske system
+
+[[./img/grundstoffernes_periodesystem.png]]
+
+** + Emission og absorption
+#+attr_html: :width 40%
+[[./img/spektre.gif]]
+
+** Det periodiske system med lys
+#+attr_html: :width 750px
+[[./img/periodisk_system_spektra.jpg]]
+
+** Find dit grundstof
+- Tag dit emissionsspektrum og studér det nøje.
+- Gå rundt blandt bordene. Forsøg at finde netop dit grundstof.
+- Tag de skøre briller på.
+- Se på spektrallamperne igen. Vurdér igen, hvilket grundstof der er dit. Det kan godt snyde lidt!
+
+** Spektra i astronomi
+
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+[[./img/hot_cool.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+[[./img/SDSS.png]]
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+
+
