@@ -78,5 +78,66 @@ $$\frac{1}{\lambda} = Z^2 R_{\infty} \left( \frac{1}{n_1^2}- \frac{1}{n_2^2} \ri
 #+reveal_html: </div>
 #+reveal_html: </div>
 
+* QuTe
+
+Quantum Teaching
+
+Erasmus+
+
+Udvikling af undervisningsmateriale om kvante-fysik og kvante-computere.
+
+** Den Haag
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+
+#+attr_html: :height 250px
+[[./img/qute_haag_2.jpg][file:./img/qute_haag_2.jpg]]
+#+attr_html: :height 250px
+[[./img/qute_haag_3.JPG][file:./img/qute_haag_3.JPG]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+#+attr_html: :height 250px
+[[./img/qute_haag_1.jpg][file:./img/qute_haag_1.jpg]]
+
+#+attr_html: :height 250px
+[[./img/qute_haag_4.jpg][file:./img/qute_haag_4.jpg]]
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+** København
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+
+#+attr_html: :height 250px
+[[./img/qute_kbh_1.jpeg][file:./img/qute_kbh_1.jpeg]]
+#+attr_html: :height 250px
+[[./img/qute_kbh_2.jpeg][file:./img/qute_kbh_2.jpeg]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+#+attr_html: :height 250px
+[[./img/qute_kbh_3.jpeg][file:./img/qute_kbh_3.jpeg]]
+#+attr_html: :height 250px
+[[./img/qute_kbh_4.jpeg][file:./img/qute_kbh_4.jpeg]]
+#+reveal_html: </div>
+#+reveal_html: </div>
 
 
+** Innsbruck
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+
+#+attr_html: :height 250px
+[[./img/qute_innsbruck_1.jpeg][file:./img/qute_innsbruck_1.jpeg]]
+#+attr_html: :height 250px
+[[./img/qute_innsbruck_2.jpg][file:./img/qute_innsbruck_2.jpg]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+#+attr_html: :height 250px
+[[./img/qute_innsbruck_3.jpg][file:./img/qute_innsbruck_3.jpg]]
+#+attr_html: :height 250px
+[[./img/qute_innsbruck_4.JPG][file:./img/qute_innsbruck_4.JPG]]
+#+reveal_html: </div>
+#+reveal_html: </div>

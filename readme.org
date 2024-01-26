@@ -1,0 +1,2 @@
+Dette repo indeholder kildekoden til en præsentation af international science på Vibenshus Gymnasium til orienteringsaftener etc.
+Selve præsentationen ligger online på: https://jacobdebel.github.io/vibenshus_gymnasium_infoaften_int_science/
